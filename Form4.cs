@@ -23,7 +23,7 @@ namespace Бд
             timer1.Start();
             comboBox1.DataSource = dB.otdelenies;
             comboBox1.DisplayMember = "Name";
-            comboBox1.SelectedIndex = 0;
+
 
         }
         void show()
